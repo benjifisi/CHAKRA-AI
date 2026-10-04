@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "CHAKRA — Chandra Asri Knowledge & Reliability Assistant",
+  "short_name": "CHAKRA",
+  "description": "CHAKRA — Chandra Asri Knowledge & Reliability Assistant. Offline access for critical SOPs, P&IDs, and One Point Lessons (OPLs) in plant field environments.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"]
+}

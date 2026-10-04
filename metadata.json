@@ -1,0 +1,8 @@
+{
+  "name": "CAP PetroHub - Chandra Asri Manufacturing Knowledge Hub",
+  "description": "AI-powered Manufacturing Knowledge Hub for Chandra Asri Group. Connects SOPs, P&IDs, datasheets, maintenance logs, and tacit OPLs into a traceable operational excellence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

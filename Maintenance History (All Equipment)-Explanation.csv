@@ -1,0 +1,26 @@
+Column Name,Description
+WO_Number,Unique work order number
+Notification_No,Originating maintenance notification number
+Report_Date,When the problem/notification was raised
+Start_Date / Completion_Date,When work started / finished
+Status,Completed / In Progress / Planned
+Equipment_Tag,*** EQUIPMENT TAG = JOIN KEY to all other documents ***
+Equipment_Name,Equipment description
+Functional_Location,Functional location code
+Area_Code / Area_Name,Process area code and name
+Plant,Plant / unit name
+Work_Type,Corrective / Preventive / Predictive / Inspection / Calibration / Overhaul
+Discipline,Mechanical / Instrument / Electrical / Process
+Priority,Emergency / High / Medium / Low
+Criticality,Equipment criticality (A/B/C wording)
+Problem_Description,What was found / reported
+Root_Cause,Identified root cause of the problem
+Corrective_Action,What was actually done to fix it
+Spare_Parts_Used,Spare parts/materials consumed (matches the GA/BOM)
+Breakdown,Yes if unplanned breakdown / No otherwise
+Downtime_Hours,Equipment downtime in hours (0 for non-breakdown)
+Labor_Hours,Man-hours spent on the job
+Labor_Cost_IDR / Material_Cost_IDR / Total_Cost_IDR,Dummy costs in Indonesian Rupiah
+Reported_By / Executed_By / Approved_By,Masked personnel (fictional name + employee ID)
+Related_Interlock,The interlock sequence associated with the equipment
+Remarks,Free-text note incl. P&ID reference

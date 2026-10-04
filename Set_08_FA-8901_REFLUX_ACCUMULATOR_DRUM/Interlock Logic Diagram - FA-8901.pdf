@@ -1,0 +1,1596 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 1190.551 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 12668
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 28.34646 777.5433 cm
+q
+.905882 .913725 .933333 rg
+n 340.1575 30 481.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F2 8 Tf 0 0 0 rg (This is sample data provided) Tj /F1 8 Tf  T* /F1 6 Tf (for CALIBER purposes only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.1575 7.5 cm
+q
+BT 1 0 0 1 0 2 Tm 53.30238 0 Td 15 TL /F2 13 Tf .121569 .219608 .392157 rg (INTERLOCK LOGIC DIAGRAM & CAUSE / EFFECT MATRIX) Tj T* -53.30238 0 Td ET
+Q
+Q
+q
+1 0 0 1 828.0472 5 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F1 8 Tf 0 0 0 rg (DOC NO: TJC-LLD-IL-FA-8901) Tj  T* (WORK NO: BA-0256   REV: 3) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+1 w
+n 0 30 m 1133.858 30 l S
+n 0 0 m 1133.858 0 l S
+n 0 0 m 0 30 l S
+n 1133.858 0 m 1133.858 30 l S
+.788235 .803922 .839216 RG
+.5 w
+n 340.1575 0 m 340.1575 30 l S
+n 822.0472 0 m 822.0472 30 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 773.5433 cm
+Q
+q
+1 0 0 1 28.34646 755.5433 cm
+q
+.905882 .913725 .933333 rg
+n 0 18 170.0787 -18 re f*
+.905882 .913725 .933333 rg
+n 666.1417 18 99.2126 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (LOGIC No: SEQ-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (DESCRIPTION: ) Tj /F2 8 Tf (REFLUX ACCUMULATOR \(FA-8901\) OVERHEAD PROTECTION LOGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 672.1417 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (SIL: SIL 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 771.3543 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (TAG: ) Tj /F2 8 Tf (FA-8901) Tj /F1 8 Tf (   FLOC: TJC-LLD-8900-01) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 18 m 1133.858 18 l S
+n 0 0 m 1133.858 0 l S
+n 0 0 m 0 18 l S
+n 1133.858 0 m 1133.858 18 l S
+.788235 .803922 .839216 RG
+.4 w
+n 170.0787 0 m 170.0787 18 l S
+n 666.1417 0 m 666.1417 18 l S
+n 765.3543 0 m 765.3543 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 747.5433 cm
+Q
+q
+1 0 0 1 40.01575 735.5433 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf .121569 .219608 .392157 rg (CAUSE & EFFECT MATRIX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.5433 cm
+Q
+q
+1 0 0 1 8.503937 652.5433 cm
+q
+.121569 .219608 .392157 rg
+n 0 80 464.8819 -20 re f*
+.180392 .298039 .494118 rg
+n 464.8819 80 708.6614 -20 re f*
+1 1 1 rg
+n 0 60 464.8819 -15 re f*
+.905882 .913725 .933333 rg
+n 0 45 464.8819 -15 re f*
+1 1 1 rg
+n 0 30 464.8819 -15 re f*
+.905882 .913725 .933333 rg
+n 0 15 464.8819 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 4.673228 0 Td (ID) Tj T* -4.673228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 58.07818 0 Td (INITIATOR / CAUSE \(INPUT\)) Tj T* -58.07818 0 Td ET
+Q
+Q
+q
+1 0 0 1 255.4488 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 23.46189 0 Td (TAG) Tj T* -23.46189 0 Td ET
+Q
+Q
+q
+1 0 0 1 329.1496 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 23.71248 0 Td (SET POINT) Tj T* -23.71248 0 Td ET
+Q
+Q
+q
+1 0 0 1 425.5276 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 7.146665 0 Td (VOTE) Tj T* -7.146665 0 Td ET
+Q
+Q
+q
+1 0 0 1 470.8819 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-1) Tj  T* -52.8096 0 Td (TRIP COLUMN FEED \(prevent carryover\)) Tj T* -20.88348 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-2) Tj  T* -49.9616 0 Td (TRIP REFLUX PUMP GA-8920 \(protect\)) Tj T* -23.73148 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-3) Tj  T* -52.8224 0 Td (OPEN VENT PCV-8905 \(relieve pressure\)) Tj T* -20.87068 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-4) Tj  T* -38.0384 0 Td (ANNUNCIATE ALARM ON DCS) Tj T* -35.65468 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum level HIGH-HIGH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (LSHH-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (> 85 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 48 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 52.5 cm
+Q
+q
+1 0 0 1 825.2126 52.5 cm
+Q
+q
+1 0 0 1 1002.378 48 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum level LOW-LOW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (LSLL-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 33.7 cm
+q
+BT 1 0 0 1 0 1 Tm 7.6 TL /F1 6.6 Tf 0 0 0 rg (< 15 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 37.5 cm
+Q
+q
+1 0 0 1 648.0472 33 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 37.5 cm
+Q
+q
+1 0 0 1 1002.378 33 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum pressure HIGH-HIGH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (PSHH-8902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (> 8 barg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 22.5 cm
+Q
+q
+1 0 0 1 648.0472 22.5 cm
+Q
+q
+1 0 0 1 825.2126 18 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 18 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Emergency stop \(manual\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (HS-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Manual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+1 w
+n 0 80 m 1173.543 80 l S
+n 0 0 m 1173.543 0 l S
+n 0 0 m 0 80 l S
+n 1173.543 0 m 1173.543 80 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 60 m 1173.543 60 l S
+n 0 45 m 1173.543 45 l S
+n 0 30 m 1173.543 30 l S
+n 0 15 m 1173.543 15 l S
+n 28.34646 0 m 28.34646 80 l S
+n 249.4488 0 m 249.4488 80 l S
+n 323.1496 0 m 323.1496 80 l S
+n 419.5276 0 m 419.5276 80 l S
+n 464.8819 0 m 464.8819 80 l S
+n 642.0472 0 m 642.0472 80 l S
+n 819.2126 0 m 819.2126 80 l S
+n 996.378 0 m 996.378 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 648.5433 cm
+Q
+q
+1 0 0 1 40.01575 640.5433 cm
+q
+BT 1 0 0 1 0 1.4 Tm 8 TL /F1 6.6 Tf .333333 .333333 .333333 rg (Legend: ) Tj /F2 6.6 Tf (X) Tj /F1 6.6 Tf ( = initiator \(row\) actuates that effect \(column\). Voting: 1oo1/1oo2/2oo3 = number of transmitters that must agree to trip.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 632.5433 cm
+Q
+q
+1 0 0 1 99.2126 542.1433 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 19 cm
+q
+.180392 .298039 .494118 rg
+n 0 68.4 481.8898 -14 re f*
+1 1 1 rg
+n 0 54.4 481.8898 -13.6 re f*
+.905882 .913725 .933333 rg
+n 0 40.8 481.8898 -13.6 re f*
+1 1 1 rg
+n 0 27.2 481.8898 -13.6 re f*
+.905882 .913725 .933333 rg
+n 0 13.6 481.8898 -13.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 4.261957 0 Td (EFFECT ID) Tj T* -4.261957 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 57.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 162.2639 0 Td (FINAL ELEMENT / ACTION) Tj T* -162.2639 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (TRIP COLUMN FEED \(prevent carryover\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (TRIP REFLUX PUMP GA-8920 \(protect\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 16.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (OPEN VENT PCV-8905 \(relieve pressure\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (ANNUNCIATE ALARM ON DCS) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 68.4 m 481.8898 68.4 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 68.4 l S
+n 481.8898 0 m 481.8898 68.4 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 54.4 m 481.8898 54.4 l S
+n 0 40.8 m 481.8898 40.8 l S
+n 0 27.2 m 481.8898 27.2 l S
+n 0 13.6 m 481.8898 13.6 l S
+n 56.69291 0 m 56.69291 68.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 496.063 3 cm
+q
+.180392 .298039 .494118 rg
+n 0 84.4 481.8898 -14 re f*
+.839216 .894118 .764706 rg
+n 0 16 481.8898 -16 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 6.227228 0 Td (#) Tj T* -6.227228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 110.7982 0 Td (START PERMISSIVE \(AND-gate\)) Tj T* -110.7982 0 Td ET
+Q
+Q
+q
+1 0 0 1 374.5039 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 37.46991 0 Td (SIGNAL) Tj T* -37.46991 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Level in normal band \(20-80%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (LT-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (N2 blanket healthy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (PT-8902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Boot not flooded) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (LT-8903) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (No active trip / reset done) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (DCS reset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 2.917228 0 Td (=>) Tj T* -2.917228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (ALL permissives TRUE \(AND\) => START FA-8901 ENABLED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (RUN) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 84.4 m 481.8898 84.4 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 84.4 l S
+n 481.8898 0 m 481.8898 84.4 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 70.4 m 481.8898 70.4 l S
+n 0 56.8 m 481.8898 56.8 l S
+n 0 43.2 m 481.8898 43.2 l S
+n 0 29.6 m 481.8898 29.6 l S
+n 0 16 m 481.8898 16 l S
+n 28.34646 0 m 28.34646 84.4 l S
+n 368.5039 0 m 368.5039 84.4 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 534.1433 cm
+Q
+q
+1 0 0 1 40.01575 518.1433 cm
+q
+BT 1 0 0 1 0 9.4 Tm 8 TL /F1 6.6 Tf .333333 .333333 .333333 rg (NOTES: 1. Trip set points are DUMMY training values. 2. On any trip the effects marked X are actuated by the Safety PLC and annunciated on the DCS. 3. A trip is latched and requires a manual reset once the cause has cleared and permissives are healthy. 4. Refer to P) Tj (&ID; TJC-LLD-PID-8901 for instrument loops and the Datasheet for design limits of FA-8901.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+x%PDF-1.4
+%”ÙÃ·
+1 0 obj
+<</Producer(PDFsharp 6.2.4 \(Original: pypdf\))/ModDate(D:20260810043233+00'00')/Author(Satria Bintang Adyatma Putra - TEC)/Creator(M365 Copilot)/CreationDate(D:20260810043233+00'00')>>
+endobj
+2 0 obj
+<</Type/Pages/Count 1/Kids[4 0 R]>>
+endobj
+3 0 obj
+<</Type/Catalog/Pages 2 0 R/Metadata 9 0 R>>
+endobj
+4 0 obj
+<</Contents 5 0 R/MediaBox[0 0 1190.551 841.89]/Resources<</Font 6 0 R/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page/Parent 2 0 R/Group<</CS/DeviceRGB/S/Transparency>>>>
+endobj
+5 0 obj
+<</Length 12668>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 28.34646 777.5433 cm
+q
+.905882 .913725 .933333 rg
+n 340.1575 30 481.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F2 8 Tf 0 0 0 rg (This is sample data provided) Tj /F1 8 Tf  T* /F1 6 Tf (for CALIBER purposes only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.1575 7.5 cm
+q
+BT 1 0 0 1 0 2 Tm 53.30238 0 Td 15 TL /F2 13 Tf .121569 .219608 .392157 rg (INTERLOCK LOGIC DIAGRAM & CAUSE / EFFECT MATRIX) Tj T* -53.30238 0 Td ET
+Q
+Q
+q
+1 0 0 1 828.0472 5 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F1 8 Tf 0 0 0 rg (DOC NO: TJC-LLD-IL-FA-8901) Tj  T* (WORK NO: BA-0256   REV: 3) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+1 w
+n 0 30 m 1133.858 30 l S
+n 0 0 m 1133.858 0 l S
+n 0 0 m 0 30 l S
+n 1133.858 0 m 1133.858 30 l S
+.788235 .803922 .839216 RG
+.5 w
+n 340.1575 0 m 340.1575 30 l S
+n 822.0472 0 m 822.0472 30 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 773.5433 cm
+Q
+q
+1 0 0 1 28.34646 755.5433 cm
+q
+.905882 .913725 .933333 rg
+n 0 18 170.0787 -18 re f*
+.905882 .913725 .933333 rg
+n 666.1417 18 99.2126 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (LOGIC No: SEQ-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (DESCRIPTION: ) Tj /F2 8 Tf (REFLUX ACCUMULATOR \(FA-8901\) OVERHEAD PROTECTION LOGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 672.1417 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (SIL: SIL 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 771.3543 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (TAG: ) Tj /F2 8 Tf (FA-8901) Tj /F1 8 Tf (   FLOC: TJC-LLD-8900-01) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 18 m 1133.858 18 l S
+n 0 0 m 1133.858 0 l S
+n 0 0 m 0 18 l S
+n 1133.858 0 m 1133.858 18 l S
+.788235 .803922 .839216 RG
+.4 w
+n 170.0787 0 m 170.0787 18 l S
+n 666.1417 0 m 666.1417 18 l S
+n 765.3543 0 m 765.3543 18 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 747.5433 cm
+Q
+q
+1 0 0 1 40.01575 735.5433 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf .121569 .219608 .392157 rg (CAUSE & EFFECT MATRIX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.5433 cm
+Q
+q
+1 0 0 1 8.503937 652.5433 cm
+q
+.121569 .219608 .392157 rg
+n 0 80 464.8819 -20 re f*
+.180392 .298039 .494118 rg
+n 464.8819 80 708.6614 -20 re f*
+1 1 1 rg
+n 0 60 464.8819 -15 re f*
+.905882 .913725 .933333 rg
+n 0 45 464.8819 -15 re f*
+1 1 1 rg
+n 0 30 464.8819 -15 re f*
+.905882 .913725 .933333 rg
+n 0 15 464.8819 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 4.673228 0 Td (ID) Tj T* -4.673228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 58.07818 0 Td (INITIATOR / CAUSE \(INPUT\)) Tj T* -58.07818 0 Td ET
+Q
+Q
+q
+1 0 0 1 255.4488 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 23.46189 0 Td (TAG) Tj T* -23.46189 0 Td ET
+Q
+Q
+q
+1 0 0 1 329.1496 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 23.71248 0 Td (SET POINT) Tj T* -23.71248 0 Td ET
+Q
+Q
+q
+1 0 0 1 425.5276 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 7.146665 0 Td (VOTE) Tj T* -7.146665 0 Td ET
+Q
+Q
+q
+1 0 0 1 470.8819 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-1) Tj  T* -52.8096 0 Td (TRIP COLUMN FEED \(prevent carryover\)) Tj T* -20.88348 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-2) Tj  T* -49.9616 0 Td (TRIP REFLUX PUMP GA-8920 \(protect\)) Tj T* -23.73148 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-3) Tj  T* -52.8224 0 Td (OPEN VENT PCV-8905 \(relieve pressure\)) Tj T* -20.87068 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 63 cm
+q
+BT 1 0 0 1 0 7.6 Tm 73.69308 0 Td 7 TL /F2 6.4 Tf 1 1 1 rg (EFF-4) Tj  T* -38.0384 0 Td (ANNUNCIATE ALARM ON DCS) Tj T* -35.65468 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum level HIGH-HIGH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (LSHH-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (> 85 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 48.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 48 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 52.5 cm
+Q
+q
+1 0 0 1 825.2126 52.5 cm
+Q
+q
+1 0 0 1 1002.378 48 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum level LOW-LOW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (LSLL-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 33.7 cm
+q
+BT 1 0 0 1 0 1 Tm 7.6 TL /F1 6.6 Tf 0 0 0 rg (< 15 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 33.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 37.5 cm
+Q
+q
+1 0 0 1 648.0472 33 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 37.5 cm
+Q
+q
+1 0 0 1 1002.378 33 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Drum pressure HIGH-HIGH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (PSHH-8902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (> 8 barg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 18.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 22.5 cm
+Q
+q
+1 0 0 1 648.0472 22.5 cm
+Q
+q
+1 0 0 1 825.2126 18 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 18 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (T4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Emergency stop \(manual\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 255.4488 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 6.6 Tf 7.6 TL (HS-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.1496 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Manual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 425.5276 3.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1oo1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 470.8819 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 648.0472 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 825.2126 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 0 0 1 1002.378 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 79.58118 0 Td (X) Tj T* -79.58118 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+1 w
+n 0 80 m 1173.543 80 l S
+n 0 0 m 1173.543 0 l S
+n 0 0 m 0 80 l S
+n 1173.543 0 m 1173.543 80 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 60 m 1173.543 60 l S
+n 0 45 m 1173.543 45 l S
+n 0 30 m 1173.543 30 l S
+n 0 15 m 1173.543 15 l S
+n 28.34646 0 m 28.34646 80 l S
+n 249.4488 0 m 249.4488 80 l S
+n 323.1496 0 m 323.1496 80 l S
+n 419.5276 0 m 419.5276 80 l S
+n 464.8819 0 m 464.8819 80 l S
+n 642.0472 0 m 642.0472 80 l S
+n 819.2126 0 m 819.2126 80 l S
+n 996.378 0 m 996.378 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 648.5433 cm
+Q
+q
+1 0 0 1 40.01575 640.5433 cm
+q
+BT 1 0 0 1 0 1.4 Tm 8 TL /F1 6.6 Tf .333333 .333333 .333333 rg (Legend: ) Tj /F2 6.6 Tf (X) Tj /F1 6.6 Tf ( = initiator \(row\) actuates that effect \(column\). Voting: 1oo1/1oo2/2oo3 = number of transmitters that must agree to trip.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 632.5433 cm
+Q
+q
+1 0 0 1 99.2126 542.1433 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 19 cm
+q
+.180392 .298039 .494118 rg
+n 0 68.4 481.8898 -14 re f*
+1 1 1 rg
+n 0 54.4 481.8898 -13.6 re f*
+.905882 .913725 .933333 rg
+n 0 40.8 481.8898 -13.6 re f*
+1 1 1 rg
+n 0 27.2 481.8898 -13.6 re f*
+.905882 .913725 .933333 rg
+n 0 13.6 481.8898 -13.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 4.261957 0 Td (EFFECT ID) Tj T* -4.261957 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 57.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 162.2639 0 Td (FINAL ELEMENT / ACTION) Tj T* -162.2639 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (TRIP COLUMN FEED \(prevent carryover\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (TRIP REFLUX PUMP GA-8920 \(protect\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 16.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (OPEN VENT PCV-8905 \(relieve pressure\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (EFF-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (ANNUNCIATE ALARM ON DCS) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 68.4 m 481.8898 68.4 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 68.4 l S
+n 481.8898 0 m 481.8898 68.4 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 54.4 m 481.8898 54.4 l S
+n 0 40.8 m 481.8898 40.8 l S
+n 0 27.2 m 481.8898 27.2 l S
+n 0 13.6 m 481.8898 13.6 l S
+n 56.69291 0 m 56.69291 68.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 496.063 3 cm
+q
+.180392 .298039 .494118 rg
+n 0 84.4 481.8898 -14 re f*
+.839216 .894118 .764706 rg
+n 0 16 481.8898 -16 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 6.227228 0 Td (#) Tj T* -6.227228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 110.7982 0 Td (START PERMISSIVE \(AND-gate\)) Tj T* -110.7982 0 Td ET
+Q
+Q
+q
+1 0 0 1 374.5039 73.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 37.46991 0 Td (SIGNAL) Tj T* -37.46991 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Level in normal band \(20-80%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 59.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (LT-8901) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (N2 blanket healthy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 46.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (PT-8902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (Boot not flooded) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 32.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (LT-8903) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (No active trip / reset done) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (DCS reset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+.690196 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 9 Tf 9 TL 2.917228 0 Td (=>) Tj T* -2.917228 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (ALL permissives TRUE \(AND\) => START FA-8901 ENABLED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.5039 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 6.6 Tf 7.6 TL (RUN) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.121569 .219608 .392157 RG
+.8 w
+n 0 84.4 m 481.8898 84.4 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 84.4 l S
+n 481.8898 0 m 481.8898 84.4 l S
+.788235 .803922 .839216 RG
+.4 w
+n 0 70.4 m 481.8898 70.4 l S
+n 0 56.8 m 481.8898 56.8 l S
+n 0 43.2 m 481.8898 43.2 l S
+n 0 29.6 m 481.8898 29.6 l S
+n 0 16 m 481.8898 16 l S
+n 28.34646 0 m 28.34646 84.4 l S
+n 368.5039 0 m 368.5039 84.4 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 534.1433 cm
+Q
+q
+1 0 0 1 40.01575 518.1433 cm
+q
+BT 1 0 0 1 0 9.4 Tm 8 TL /F1 6.6 Tf .333333 .333333 .333333 rg (NOTES: 1. Trip set points are DUMMY training values. 2. On any trip the effects marked X are actuated by the Safety PLC and annunciated on the DCS. 3. A trip is latched and requires a manual reset once the cause has cleared and permissives are healthy. 4. Refer to P) Tj (&ID; TJC-LLD-PID-8901 for instrument loops and the Datasheet for design limits of FA-8901.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<</F1 7 0 R/F2 8 0 R>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1/Subtype/Type1/Type/Font>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding/Name/F2/Subtype/Type1/Type/Font>>
+endobj
+9 0 obj
+<</Type/Metadata/Subtype/XML/Length 1417>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFsharp 6.2.4 (Original: pypdf)</pdf:Producer><pdf:Keywords></pdf:Keywords>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title><rdf:Alt><rdf:li xml:lang="x-default"></rdf:li></rdf:Alt></dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Satria Bintang Adyatma Putra - TEC</rdf:li></rdf:Seq></dc:creator>
+        <dc:description><rdf:Alt><rdf:li xml:lang="x-default"></rdf:li></rdf:Alt></dc:description>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:CreatorTool>M365 Copilot</xmp:CreatorTool>
+        <xmp:CreateDate>2026-08-10T04:32:33Z</xmp:CreateDate>
+        <xmp:ModifyDate>2026-08-10T04:32:33Z</xmp:ModifyDate>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+        <xmpMM:DocumentID>uuid:64b4729e-5fb6-4a88-b1e8-06504a711bf1</xmpMM:DocumentID>
+        <xmpMM:InstanceID>uuid:6e16ce3b-8928-4267-84c6-dba61c63703f</xmpMM:InstanceID>
+      </rdf:Description>
+
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="w"?>
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000013358 00000 n 
+0000013559 00000 n 
+0000013610 00000 n 
+0000013670 00000 n 
+0000013880 00000 n 
+0000026599 00000 n 
+0000026637 00000 n 
+0000026733 00000 n 
+0000026834 00000 n 
+trailer
+<</Size 10/Root 3 0 R/Info 1 0 R/ID[<26855DFBBEF5AA42A60FC9C63F915777><26855DFBBEF5AA42A60FC9C63F915777>]>>% Created with PDFsharp 6.2.4 (CORE) under .NET 10.0
+startxref
+28327
+%%EOF
